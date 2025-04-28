@@ -1,7 +1,10 @@
 ## SQL-PROJECT
 ## SCHOOL DATABASE MANAGEMENT
 # Littile Flower School
-  Create the database CREATE DATABASE little_flower_school;
+## Overview
+--Little Flower School is a nurturing educational institution dedicated to fostering academic excellence and personal growth in a supportive environment. Located in salem, the school provides a holistic education that blends rigorous academics with a focus on character development and extracurricular enrichment.
+
+# Create the database CREATE DATABASE little_flower_school;
 
 -- Use the created database USE little_flower_school;
 
