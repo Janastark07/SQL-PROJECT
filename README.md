@@ -1,6 +1,8 @@
 ## SQL-PROJECT
 ## SCHOOL DATABASE MANAGEMENT
 # Littile Flower School
+![image](https://github.com/user-attachments/assets/6a4bea6e-29ae-4395-88b7-42ae062e4ea4)
+
 ## Overview
 --Little Flower School is a nurturing educational institution dedicated to fostering academic excellence and personal growth in a supportive environment. Located in salem, the school provides a holistic education that blends rigorous academics with a focus on character development and extracurricular enrichment.
 
