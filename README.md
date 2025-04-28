@@ -1,6 +1,6 @@
 ## SQL-PROJECT
 ## SCHOOL DATABASE MANAGEMENT
-# Littile Flower School
+# Littile Flower School 
 ![image](https://github.com/user-attachments/assets/6a4bea6e-29ae-4395-88b7-42ae062e4ea4)
 
 ## Overview
