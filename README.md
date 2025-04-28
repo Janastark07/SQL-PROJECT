@@ -255,3 +255,9 @@ SELECT s.STUDENT_NAME, s.CLASS, b.SCHOOL_BUS_NUMBER FROM STUDENT s JOIN School_B
 
 ## 15)What are the names of employees who are assigned to the same school bus as student with ID 113?
 SELECT e.EMPLOYEE_NAME FROM Employees e JOIN School_Bus b ON e.EMPLOYEE_ID = b.EMPLOYEE_ID WHERE b.STUDENT_ID = 113;
+## Final Coclusion
+The School Management System exemplifies the effective application of SQL in handling diverse administrative functions within an educational institution. By utilizing SQL's advanced features, such as queries, joins, subqueries, views, and stored procedures, the system adeptly manages essential components including student records, employee details, salary information, and school fees.
+•
+This project emphasizes the critical role of structured data management in ensuring smooth and efficient school operations. Centralizing data and automating routine processes not only enhances operational efficiency but also improves accuracy and scalability. The system supports better decision-making and ensures transparency in financial and administrative matters, ultimately benefiting students, staff, and school administrators.
+•
+Overall, the School Management System demonstrates how SQL can be leveraged to create a robust, reliable, and user-friendly database solution. This project highlights SQL's capability to streamline complex data management tasks and provides significant advantages in managing educational institutions effectively.
