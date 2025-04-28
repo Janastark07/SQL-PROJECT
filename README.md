@@ -173,7 +173,8 @@ INSERT INTO School_Bus (
     EMPLOYEE_ID,
     STUDENT_ID,
     ROUTE
-) VALUES (
+    )
+    VALUES(
     S_SCHOOL_BUS_ID,
     S_SCHOOL_BUS_NUMBER,
     S_EMPLOYEE_ID,
