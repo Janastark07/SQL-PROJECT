@@ -2,6 +2,7 @@
 ## SCHOOL DATABASE MANAGEMENT
 # Littile Flower School
 Create the database CREATE DATABASE little_flower_school;
+
 -- Use the created database USE little_flower_school;
 
 student table CREATE TABLE STUDENT ( STUDENT_ID INT PRIMARY KEY, STUDENT_NAME VARCHAR(100), CLASS INT, PARENT_NAME VARCHAR(100), PARENT_MOBILE VARCHAR(100) );
