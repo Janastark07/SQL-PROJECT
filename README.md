@@ -1,7 +1,7 @@
 ## SQL-PROJECT
 ## SCHOOL DATABASE MANAGEMENT
 # Littile Flower School
-Create the database CREATE DATABASE little_flower_school;
+  Create the database CREATE DATABASE little_flower_school;
 
 -- Use the created database USE little_flower_school;
 
